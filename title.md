@@ -1,1 +1,1 @@
-Marking Notebook Programs with Git Information
+Notebook Git tagging to ensure reproducibility of scientific figures
