@@ -1,1 +1,1 @@
-Subm
+Submission goals: first to 
