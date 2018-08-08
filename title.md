@@ -1,1 +1,1 @@
-Marking Notebook Programs with Git 
+Marking Notebook Programs with Git Information
