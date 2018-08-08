@@ -1,1 +1,1 @@
-Submission goals: first to Arxiv, then ?
+Submission goals: first to Arxiv, then ?S
