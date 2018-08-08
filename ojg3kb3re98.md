@@ -1,1 +1,1 @@
-Submission goals: first to 
+Submission goals: first to Arxiv
