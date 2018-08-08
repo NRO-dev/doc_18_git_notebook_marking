@@ -1,1 +1,1 @@
-Notebook Git tagging to ensure reproducibility of scientific figures
+Notebook programming with Git tagging to ensure reproducibility of scientific figures
