@@ -1,1 +1,1 @@
-Submission goals: first to Arxiv, then ?SIAM Journal o
+Submission goals: first to Arxiv, then ?SIAM Journal on Scientific 
