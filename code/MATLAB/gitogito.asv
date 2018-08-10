@@ -1,0 +1,24 @@
+function gitogito()
+
+    disp('Hello')
+    disp(' ')
+    disp(join(['Version:        ', version]))
+    disp({'Version Date:   ', version -date)}
+
+version -date
+
+version -description
+
+version -release
+
+version -java
+
+date
+
+cd C:\Users\anton\Documents\GitHub\doc_18_git_notebook_marking
+
+!git rev-parse HEAD
+
+!git --version
+
+end
