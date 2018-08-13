@@ -1,1 +1,1 @@
-WSubmission goals: first to Arxiv, then ?Frontiers in Computational Neuroscience
+Writing Submission goals: first to Arxiv, then ?Frontiers in Computational Neuroscience
