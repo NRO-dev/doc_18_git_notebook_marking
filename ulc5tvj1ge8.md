@@ -1,6 +1,6 @@
 # Validation of the Method with Code Libraries in Python, Mathematica, and MATLAB
 
-All code 
+All code libraries below are 
 ## Python
 
 
