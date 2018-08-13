@@ -1,1 +1,1 @@
-# Examples of Application to Notebook 
+# Examples of Application to Notebook Computing
